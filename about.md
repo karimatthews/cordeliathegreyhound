@@ -5,3 +5,7 @@ permalink: /about/
 categories: jekyll update
 ---
 Meet Cordelia. Cordelia is great
+
+![Roaching Cordy]({{ site.url }}/assets/car.jpg)
+
+![Mlem]({{ site.url }}/assets/mlem.jpg)
