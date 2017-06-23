@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Draft"
-date:   2017-06-23 17:51:54 +1000
-categories:
+date:   2017-06-22 00:00:00
+categories: jekyll update
 ---
 
 Here is a draft

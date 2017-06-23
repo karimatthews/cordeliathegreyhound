@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Welcome"
-date:   2017-06-23 17:51:54 +1000
-categories: 
+date:   2017-06-22 17:51:54 +1000
+categories: jekyll update
 ---
 Welcome to Cordelia's blog. These posts will be written by Cordelia's humans: Sean and Kari.
 
